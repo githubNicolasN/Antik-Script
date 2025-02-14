@@ -1,3 +1,3 @@
-# Antik-Script
+# Scripting language implementation
 
 
